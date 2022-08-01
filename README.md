@@ -1,5 +1,3 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/perfil-trybe-1.png" ></p>
-
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
   <h2 align="center">Meu nome é <i>Vinicius Cardoso</i></a> e eu estudo Desenvolvimento Web. 😃️
